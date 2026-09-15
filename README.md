@@ -6,9 +6,9 @@ This repository contains three original product case-study blueprints built arou
 
 ## Case studies
 
-1. [Teacher Test and Evaluation Platform](./teacher-test-platform.md)
-2. [Scientific Simulation Workflow Manager](./simulation-workflow-manager.md)
-3. [Feature-Adoption Intelligence Dashboard](./feature-adoption-dashboard.md)
+1. [Teacher Test and Evaluation Platform](./teacher-test-platform/)
+2. [Scientific Simulation Workflow Manager](./simulation-workflow-manager/)
+3. [Feature-Adoption Intelligence Dashboard](./feature-adoption-dashboard/)
 
 ## Skills demonstrated
 
